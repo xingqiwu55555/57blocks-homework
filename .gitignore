@@ -10,6 +10,7 @@
 
 # production
 /build
+homework.zip
 
 # misc
 .DS_Store
